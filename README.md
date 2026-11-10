@@ -16,8 +16,6 @@ brew install python@3.10
 ## Ejecutar la interfaz
 
 ```bash
-git clone https://github.com/MIKKELMIKE/Logi3B.git
-cd Logi3B
 chmod +x ejecutar_app.sh
 ./ejecutar_app.sh
 ```
